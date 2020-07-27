@@ -1,15 +1,15 @@
 import React from 'react';
 
-const Home = () => {
+const About = () => {
   return (
     <div
       className="ui raised very padded text container segment"
       style={{ marginTop: '80px' }}
     >
-      <h3 className="ui header">Home</h3>
-      <p>Home Page TEXT</p>
+      <h3 className="ui header">About</h3>
+      <p>About TEXT</p>
     </div>
   );
 };
 
-export default Home;
+export default About;
